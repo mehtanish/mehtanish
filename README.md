@@ -1,11 +1,32 @@
 <table>
   <tr>
-    <td width="50%">
-      <img src="./portrait2.svg" width="500" alt="Animated terminal portrait">
+    <td width="45%" align="center">
+      <img src="./portrait2.svg" width="450" alt="Tanish Mehta">
     </td>
-    <td width="50%" align="center">
-      <h1>Hi, I am Tanish Mehta </h1>
-      <h1> Code with purpose. Learn with intent. Build with impact.</h1>
+
+    <td width="55%" align="left">
+
+      <h1>Hi, I'm Tanish Mehta 👋</h1>
+
+      <h3>Software Developer • Problem Solver • Builder</h3>
+
+      <p>
+        Turning ideas into meaningful solutions through code.
+      </p>
+
+      <p>
+        <code>C++</code>
+        <code>DSA</code>
+        <code>Java</code>
+        <code>Python</code>
+        <code>React</code>
+        <code>Next.js</code>
+      </p>
+
+      <p>
+        🚀 Always learning. Always building. Always improving.
+      </p>
+
     </td>
   </tr>
 </table>
