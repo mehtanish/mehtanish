@@ -1,23 +1,16 @@
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <img src="./portrait2.svg" width="500" alt="Animated terminal portrait">
     </td>
     <td width="50%" align="center">
       <h1>Hi, I am Tanish Mehta 👋</h1>
-      <h3>ENTC Engineering Student | Developer | Tech Enthusiast</h3>
-      <p>
-        Building projects, solving DSA problems,<br>
-        and exploring software development.
-      </p>
     </td>
   </tr>
 </table>
-# Hi there 👋, I'm Tanish Mehta
-
-<h3 align="center">🚀 Electronics & Telecommunication Engineering Student | Software Developer | AI Enthusiast</h3>
 
 ---
+
 
 
 
