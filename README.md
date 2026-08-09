@@ -84,14 +84,6 @@
 
 [![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehtanish&theme=tokyo-night)](https://github.com/mehtanish)
 
-# 📅 Contribution Grid
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b09b,100:96c93d&height=6&width=100%&animation=fadeIn" width="100%"/>
-
-<img src="https://github-contributions.vercel.app/api?username=mehtanish&theme=github-dark" alt="Tanish's GitHub contribution grid" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:96c93d,100:00b09b&height=6&width=100%&animation=fadeIn" width="100%"/>
-
 # 📄 Open to Opportunities
 
 <p align="left">
@@ -99,6 +91,8 @@
 <img src="https://img.shields.io/badge/Looking%20for-Internships%20%26%20Entry--Level%20Roles-blue?style=for-the-badge"/>
 </p>
 
+- 📄 **[Download my Resume](#)** — replace this link with your resume file or Google Drive link
+- 💼 **[View my Portfolio](#)** — replace this with a portfolio site if you build one
 - 🎯 Actively looking for internship/entry-level opportunities in Software Development and Full-Stack roles
 
 # ✍️ Random Dev Quote
