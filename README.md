@@ -14,10 +14,8 @@
 <p>
 <code>C++</code>
 <code>DSA</code>
-<code>Java</code>
-<code>Python</code>
-<code>React</code>
-<code>Next.js</code>
+<code>Git</code>
+<code>Github</code>
 </p>
 
 <p>🚀 Always learning. Always building. Always improving.</p>
