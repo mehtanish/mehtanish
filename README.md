@@ -4,7 +4,8 @@
       <img src="./portrait2.svg" width="500" alt="Animated terminal portrait">
     </td>
     <td width="50%" align="center">
-      <h1>Hi, I am Tanish Mehta 👋</h1>
+      <h1>Hi, I am Tanish Mehta </h1>
+      <h1> Code with purpose. Learn with intent. Build with impact.</h1>
     </td>
   </tr>
 </table>
