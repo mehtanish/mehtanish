@@ -84,6 +84,14 @@
 
 [![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehtanish&theme=tokyo-night)](https://github.com/mehtanish)
 
+# 📅 Contribution Grid
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b09b,100:96c93d&height=6&width=100%&animation=fadeIn" width="100%"/>
+
+<img src="https://ghchart.rshah.org/00b09b/mehtanish" alt="Tanish's GitHub contribution grid" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:96c93d,100:00b09b&height=6&width=100%&animation=fadeIn" width="100%"/>
+
 # 📄 Open to Opportunities
 
 <p align="left">
