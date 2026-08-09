@@ -7,15 +7,16 @@
 </td>
 <td width="55%" align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tanish+Mehta+%F0%9F%91%8B;Software+Developer;Problem+Solver;Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tanish+Mehta+%F0%9F%91%8B;Aspiring+Software+Developer;Problem+Solver;Builder" />
 
 <p>Turning ideas into meaningful solutions through code.</p>
 
 <p>
+<code>C</code>
 <code>C++</code>
 <code>DSA</code>
 <code>Git</code>
-<code>Github</code>
+<code>GitHub</code>
 </p>
 
 <p>🚀 Always learning. Always building. Always improving.</p>
@@ -24,7 +25,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 # 💫 About Me
 
@@ -36,7 +37,7 @@
 - 🎯 Goal: Become a Software Engineer and build impactful products
 - 📫 Reach me at **[tanishmehta0909@gmail.com](mailto:tanishmehta0909@gmail.com)**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 # 🌐 Connect With Me
 
@@ -52,15 +53,15 @@
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 # 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nextjs,spring,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,git,github" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 # 📊 GitHub Stats
 
@@ -94,10 +95,6 @@
 # ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-# 🔝 Top Contributed Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=mehtanish&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 # 👀 Profile Views
 
