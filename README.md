@@ -88,7 +88,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b09b,100:96c93d&height=6&width=100%&animation=fadeIn" width="100%"/>
 
-<img src="https://ghchart.rshah.org/00b09b/mehtanish" alt="Tanish's GitHub contribution grid" width="100%"/>
+<img src="https://github-contributions.vercel.app/api?username=mehtanish&theme=github-dark" alt="Tanish's GitHub contribution grid" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:96c93d,100:00b09b&height=6&width=100%&animation=fadeIn" width="100%"/>
 
@@ -98,7 +98,6 @@
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Looking%20for-Internships%20%26%20Entry--Level%20Roles-blue?style=for-the-badge"/>
 </p>
-
 
 - 🎯 Actively looking for internship/entry-level opportunities in Software Development and Full-Stack roles
 
