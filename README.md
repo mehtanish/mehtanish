@@ -99,8 +99,7 @@
 <img src="https://img.shields.io/badge/Looking%20for-Internships%20%26%20Entry--Level%20Roles-blue?style=for-the-badge"/>
 </p>
 
-- 📄 **[Download my Resume](#)** — replace this link with your resume file or Google Drive link
-- 💼 **[View my Portfolio](#)** — replace this with a portfolio site if you build one
+
 - 🎯 Actively looking for internship/entry-level opportunities in Software Development and Full-Stack roles
 
 # ✍️ Random Dev Quote
