@@ -1,41 +1,24 @@
 <table>
-  <tr>
-    <td width="45%" align="center">
-      <img src="./portrait2.svg" width="450" alt="Tanish Mehta">
-    </td>
-
-    <td width="55%" align="left">
-
-      <h1>Hi, I'm Tanish Mehta 👋</h1>
-
-      <h3>Software Developer • Problem Solver • Builder</h3>
-
-      <p>
-        Turning ideas into meaningful solutions through code.
-      </p>
-
-      <p>
-        <code>C++</code>
-        <code>DSA</code>
-        <code>Java</code>
-        <code>Python</code>
-        <code>React</code>
-        <code>Next.js</code>
-      </p>
-
-      <p>
-        🚀 Always learning. Always building. Always improving.
-      </p>
-
-    </td>
-  </tr>
+<tr>
+<td width="45%" align="center">
+<img src="./portrait2.svg" width="450" alt="Tanish Mehta">
+</td>
+<td width="55%" align="left">
+<h1>Hi, I'm Tanish Mehta 👋</h1>
+<h3>Software Developer • Problem Solver • Builder</h3>
+<p>Turning ideas into meaningful solutions through code.</p>
+<p>
+<code>C++</code>
+<code>DSA</code>
+<code>Java</code>
+<code>Python</code>
+<code>React</code>
+<code>Next.js</code>
+</p>
+<p>🚀 Always learning. Always building. Always improving.</p>
+</td>
+</tr>
 </table>
-
----
-
-
-
-
 # 💫 About Me
 
 - 🎓 Electronics & Telecommunication Engineering Student at **PICT, Pune**
@@ -44,7 +27,7 @@
 - 🌱 Currently learning **Data Structures & Algorithms, Spring Boot, React**
 - 🚀 Building projects that solve real-world problems
 - 🎯 Goal: Become a Software Engineer and build impactful products
-- 📫 Reach me at **tanishmehta0909@gmail.com**
+- 📫 Reach me at **[tanishmehta0909@gmail.com](mailto:tanishmehta0909@gmail.com)**
 
 ---
 
