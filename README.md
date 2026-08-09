@@ -84,13 +84,39 @@
 
 [![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehtanish&theme=tokyo-night)](https://github.com/mehtanish)
 
-# 🐍 Contribution Snake
+# 🚀 Featured Projects
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehtanish/mehtanish/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehtanish/mehtanish/output/github-contribution-grid-snake.svg">
-<img alt="github contribution snake" src="https://raw.githubusercontent.com/mehtanish/mehtanish/output/github-contribution-grid-snake.svg">
-</picture>
+<table>
+<tr>
+<td width="50%">
+
+**[Project Name](https://github.com/mehtanish/repo-link)**
+One-line description of what it does and the problem it solves.
+`Tech` `Stack` `Used`
+
+</td>
+<td width="50%">
+
+**[Project Name](https://github.com/mehtanish/repo-link)**
+One-line description of what it does and the problem it solves.
+`Tech` `Stack` `Used`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📄 Open to Opportunities
+
+<p align="left">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Looking%20for-Internships%20%26%20Entry--Level%20Roles-blue?style=for-the-badge"/>
+</p>
+
+- 📄 **[Download my Resume](#)** — replace this link with your resume file or Google Drive link
+- 💼 **[View my Portfolio](#)** — replace this with a portfolio site if you build one
+- 🎯 Actively looking for internship/entry-level opportunities in Software Development and Full-Stack roles
 
 # ✍️ Random Dev Quote
 
