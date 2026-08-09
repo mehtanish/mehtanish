@@ -4,6 +4,12 @@
 
 ---
 
+<p align="center">
+  <img src="./portrait.svg"
+       width="620"
+       alt="Animated terminal portrait">
+</p>
+
 # 💫 About Me
 
 - 🎓 Electronics & Telecommunication Engineering Student at **PICT, Pune**
