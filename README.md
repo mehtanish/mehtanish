@@ -84,28 +84,9 @@
 
 [![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehtanish&theme=tokyo-night)](https://github.com/mehtanish)
 
-# 🚀 Featured Projects
+# 📅 Contribution Grid
 
-<table>
-<tr>
-<td width="50%">
-
-**[Project Name](https://github.com/mehtanish/repo-link)**
-One-line description of what it does and the problem it solves.
-`Tech` `Stack` `Used`
-
-</td>
-<td width="50%">
-
-**[Project Name](https://github.com/mehtanish/repo-link)**
-One-line description of what it does and the problem it solves.
-`Tech` `Stack` `Used`
-
-</td>
-</tr>
-</table>
-
----
+<img src="https://ghchart.rshah.org/00b09b/mehtanish" alt="Tanish's GitHub contribution grid" width="100%"/>
 
 # 📄 Open to Opportunities
 
