@@ -1,12 +1,16 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=200&section=header&text=Tanish%20Mehta&fontSize=50&fontColor=fff&animation=fadeIn" width="100%"/>
+
 <table>
 <tr>
 <td width="45%" align="center">
 <img src="./portrait2.svg" width="450" alt="Tanish Mehta">
 </td>
 <td width="55%" align="left">
-<h1>Hi, I'm Tanish Mehta 👋</h1>
-<h3>Software Developer • Problem Solver • Builder</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Tanish+Mehta+%F0%9F%91%8B;Software+Developer;Problem+Solver;Builder" />
+
 <p>Turning ideas into meaningful solutions through code.</p>
+
 <p>
 <code>C++</code>
 <code>DSA</code>
@@ -15,10 +19,15 @@
 <code>React</code>
 <code>Next.js</code>
 </p>
+
 <p>🚀 Always learning. Always building. Always improving.</p>
+
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 # 💫 About Me
 
 - 🎓 Electronics & Telecommunication Engineering Student at **PICT, Pune**
@@ -29,7 +38,7 @@
 - 🎯 Goal: Become a Software Engineer and build impactful products
 - 📫 Reach me at **[tanishmehta0909@gmail.com](mailto:tanishmehta0909@gmail.com)**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 # 🌐 Connect With Me
 
@@ -37,67 +46,44 @@
 <a href="https://instagram.com/the.tanishmehta" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/mehtanish1729" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:tanishmehta0909@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 # 💻 Tech Stack
 
-### Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nextjs,spring,git,github,vscode" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mehtanish&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mehtanish&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://streak-stats.demolab.com?user=mehtanish&theme=tokyonight" height="180"/>
+</p>
 
-![](https://streak-stats.demolab.com?user=mehtanish&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtanish&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtanish&layout=compact&theme=tokyonight" />
+</p>
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mehtanish&theme=tokyonight&no-frame=true&margin-w=8)
-
----
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mehtanish&theme=tokyonight&no-frame=true&margin-w=8" />
+</p>
 
 # 📈 Contribution Graph
 
 [![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehtanish&theme=tokyo-night)](https://github.com/mehtanish)
-
----
 
 # 🐍 Contribution Snake
 
@@ -107,24 +93,18 @@
 <img alt="github contribution snake" src="https://raw.githubusercontent.com/mehtanish/mehtanish/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 # 🔝 Top Contributed Repositories
 
-![](https://github-contributor-stats.vercel.app/api?username=mehtanish&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
+<img src="https://github-contributor-stats.vercel.app/api?username=mehtanish&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 # 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=mehtanish&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=mehtanish&style=for-the-badge&color=blue" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:96c93d,100:00b09b&height=120&section=footer" width="100%"/>
 
 ⭐ **Thanks for visiting my profile!**
